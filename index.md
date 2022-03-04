@@ -1,7 +1,7 @@
 # Othello Game Implementation With AI Player  
 <br/>
 
-![Image](https://github.com/Morteza-Kazemi/Othello-AI-player/blob/main/Othello.png)
+<!---![Image](https://github.com/Morteza-Kazemi/Othello-AI-player/blob/main/Othello.png)--->
 
 This is the Artificial Intelligence course final project in Shahid Beheshti University done by Morteza Kazemi and Shiva Zeymaran  
 Winter 2021
